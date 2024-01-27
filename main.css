@@ -3,49 +3,51 @@ body {
 }
 
 .navbar {
-    background-color: #e15f41;
+    background-color: #fff;
 }
 
 #cabecalho .nav .nav-link.active {
-    background-color: #fff;
-    color: #e15f41;
+    background-color:#007aff;
+    color: #fff;
 }
 
 #cabecalho .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover,
 .nav-cardapio .nav-link.active:hover {
-    color: #fff;
+    color: #007aff;
 }
 
 .navbar-toggler {
-    background-color: #ffeae6;
+    background-color:  #ffffff;
 }
 
 .section-tittle {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 
 #sobre-o-restaurante, #cardapio {
-    background-color: #ffeae6;
+    background-color:  #ffffff;
 }
 
 .text-colored {
-    color: #e15f41;
+    color: #007aff;
+    font-weight: bold;
 }
 
 .nav-cardapio {
-    color: #e15f41;
+    color: #007aff;
 }
 
 .nav-cardapio .nav-link.active,
 #fale-conosco button {
-    background-color: #e15f41;
+    background-color: #007aff;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #e15f41;
+    color: #007aff;
 }
 
 .social-links li {
